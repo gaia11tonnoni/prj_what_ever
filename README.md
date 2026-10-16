@@ -4,7 +4,6 @@
 
 dotted list:
 - element 1
-- element 2
   - el
 
 numbered list:

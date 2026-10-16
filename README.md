@@ -9,7 +9,6 @@ dotted list:
 
 numbered list:
 1. elem
-2. elem
    1. el
 
 
